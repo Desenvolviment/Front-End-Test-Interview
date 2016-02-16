@@ -1,3 +1,4 @@
+
 [![Build Status][travis-image]][travis-url] [![Dependency Status][depstat-image]][depstat-url] [![Dependency Status][depstat-dev-image]][depstat-dev-url] 
 
 #Teste para candidatos à vaga de desenvolvedor Front-end
